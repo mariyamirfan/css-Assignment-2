@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+
+}
+
+.navbar{
+   z-index: 5;
+}
+
+.topsite {
+    background-image: url(bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+}
+.contant{
+    font-size: 60px;
+    font-family: "Playfair Display",serif;
+}
+.contant p{
+    color: rgb(161, 161, 161);
+}
+button{
+    background-color: rgb(61, 165, 78);
+    border-radius: 8px;
+    width: 17rem;
+    padding: 10px;
+    border: none;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.section1{
+    background-color: rgb(61, 165, 78);
+    color: white;
+}
+.section1 h1{
+    font-family: "Playfair Display",serif;
+    font-weight: bold;
+}
+.all-items{
+    background-color: rgb(55, 192, 78);
+    padding: 30px;
+}
+.all-items .header1{
+    color: aliceblue;
+    font-family: "Playfair Display",serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+.all-items .text{
+    color: rgb(226, 226, 226);
+    font-size: 25px;
+}
+.container h5{
+    color: aliceblue;
+    font-size: 25px;
+}
+.container p{
+    color: rgb(209, 207, 207);
+}
+.sectiontwo{
+    background-color: rgba(221, 221, 221, 0.945);
+}
+.sectiontwo h1{
+    font-family: "Playfair Display",serif;
+}
+.sectiontwo p{
+    color: rgb(109, 109, 109);
+}
+.box{
+    background-color: rgb(61, 165, 78);
+    height:  350px;
+    padding: 40px;
+    color: antiquewhite;
+    border-radius: 10px;
+}
+.sectionthree{
+    background-color: rgb(27, 26, 26);
+}
